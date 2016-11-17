@@ -1,5 +1,8 @@
 # #
 
+# part my Udacity "Artifical Intelligence for Robotics" class projects
+
+
 # GOALS
 #  - define a square path similar to a race track 
 # -  smooth it out 
