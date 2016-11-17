@@ -1,3 +1,7 @@
+
+# part my Udacity "Artifical Intelligence for Robotics" class projects
+
+
 #  GOALS
     #  peform A-star search on a discrete M x N grid
     #    0s mean that loation is passable
